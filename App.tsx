@@ -11,9 +11,6 @@ import{
 } from 'react-native'
 import { NavigationContainer } from '@react-navigation/native';
 import UTPStack from './Navigation/BottomTab/UTPStack/UTPStack';
-import Login from './screens/Auth/Login';
-
-
 
 function App(){
 
